@@ -1,0 +1,4 @@
+cd Documents\West-World
+git add .
+git commit -m "new level"
+git push
